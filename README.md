@@ -11,4 +11,3 @@ Considering *p* as the probability of being captured, *M* as the population size
 * Estimating Monte-Carlo error
 
 Theoritical answers are mainly inspired by https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf
->>>>>>> 3227e60496dbfe1dfb954cd8ac020943ad36ec71
