@@ -8,3 +8,5 @@ Considering *p* as the probability of being captured, *M* as the population size
 * Computing theoritical distributions of conditionnal probabilities of *p/M,x* and *M/p,x*
 * Find a way to estimate them (Gibbs-Sampler)
 * Estimating Monte-Carlo error
+
+Theoritical answers are inspired by (https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf)
