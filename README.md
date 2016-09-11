@@ -7,6 +7,7 @@ Definition of caputre recapture from Wikipedia: *"A portion of the population is
 Considering *p* as the probability of being captured, *M* as the population size, and *x* as available data, the present work aims at:
 * Computing theoritical distributions of conditionnal probabilities of *p/M,x* and *M/p,x*
 * Find a way to estimate them (Gibbs-Sampler)
+* Estimating *M*
 * Estimating Monte-Carlo error
 
 Theoritical answers are mainly inspired by https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf
