@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Beta Distribution
 
 Assessment realized in late 2015.
@@ -7,3 +8,18 @@ Work on Beta parameters estimation:
 * Maximum likelihood estimation
 * Newton-Raphson approximation
 * Wald test
+=======
+# Capture Recapture
+
+Assessment realized in 2016 on capture recapture.
+
+Definition of caputre recapture from Wikipedia: *"A portion of the population is captured, marked, and released. Later, another portion is captured and the number of marked individuals within the sample is counted. Since the number of marked individuals within the second sample should be proportional to the number of marked individuals in the whole population, an estimate of the total population size can be obtained by dividing the number of marked individuals by the proportion of marked individuals in the second sample."*
+
+Considering *p* as the probability of being captured, *M* as the population size, and *x* as available data, the present work aims at:
+* Computing theoritical distributions of conditionnal probabilities of *p/M,x* and *M/p,x*
+* Find a way to estimate them (Gibbs-Sampler)
+* Estimating *M*
+* Estimating Monte-Carlo error
+
+Theoritical answers are mainly inspired by https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf
+>>>>>>> 3227e60496dbfe1dfb954cd8ac020943ad36ec71
