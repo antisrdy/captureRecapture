@@ -9,4 +9,4 @@ Considering *p* as the probability of being captured, *M* as the population size
 * Find a way to estimate them (Gibbs-Sampler)
 * Estimating Monte-Carlo error
 
-Theoritical answers are inspired by (https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf)
+Theoritical answers are mainly inspired by https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf
