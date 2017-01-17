@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# Beta Distribution
-
-Assessment realized in late 2015.
-
-Work on Beta parameters estimation:
-* Method of moments
-* Maximum likelihood estimation
-* Newton-Raphson approximation
-* Wald test
-=======
 # Capture Recapture
 
 Assessment realized in 2016 on capture recapture.
@@ -22,4 +11,5 @@ Considering *p* as the probability of being captured, *M* as the population size
 * Estimating Monte-Carlo error
 
 Theoritical answers are mainly inspired by https://www.ceremade.dauphine.fr/~xian/bcs/bcap.pdf
->>>>>>> 3227e60496dbfe1dfb954cd8ac020943ad36ec71
+
+Main lessons may be found here: https://www.dropbox.com/s/q8oplsrdzqwjv1w/capture_recapture.pdf?dl=0
